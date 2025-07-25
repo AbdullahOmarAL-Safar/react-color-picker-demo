@@ -24,15 +24,8 @@ A modern and interactive React application that allows users to pick a color and
 
 ## 🛠️ Getting Started
 
-```bash
-git clone https://github.com/yourusername/react-color-picker-demo.git
-cd react-color-picker-demo
-npm install
-npm run dev
+
 📁 Project Structure
-css
-Copy
-Edit
 src/
 │
 ├── App.jsx
@@ -49,4 +42,3 @@ src/
 📺 [LEVEL UP IT - YouTube](https://www.youtube.com/@LEVEL_UP_IT)
 🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)
 📬 [Email](mailto:abodyalsafar2009@gmail.com)
-```
